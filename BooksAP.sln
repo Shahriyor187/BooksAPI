@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34205.153
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAP", "BooksAP.csproj", "{C88B6272-430C-46D0-AC18-028F4CA7151D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAPI.DTOs", "..\BooksAPI.DTOs\BooksAPI.DTOs.csproj", "{DF32DCCA-5403-479B-A083-4733A7556E0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88B6272-430C-46D0-AC18-028F4CA7151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88B6272-430C-46D0-AC18-028F4CA7151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88B6272-430C-46D0-AC18-028F4CA7151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88B6272-430C-46D0-AC18-028F4CA7151D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF32DCCA-5403-479B-A083-4733A7556E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF32DCCA-5403-479B-A083-4733A7556E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF32DCCA-5403-479B-A083-4733A7556E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF32DCCA-5403-479B-A083-4733A7556E0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01952303-FA57-4A10-AFA3-CAE15791B953}
+	EndGlobalSection
+EndGlobal
